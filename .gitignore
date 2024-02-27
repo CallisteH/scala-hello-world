@@ -1,0 +1,11 @@
+.bloop
+.bsp
+.metals
+.vscode
+target
+project/project
+project/metals.sbt
+prod/*.tar*
+prod/powercontrol
+prod/*-account.json
+tmp
